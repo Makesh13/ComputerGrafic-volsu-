@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComputerGrafic.Lab2.WinForm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComputerGrafic.Lab4.WinForm", "ComputerGrafic.Lab4.WinForm\ComputerGrafic.Lab4.WinForm.csproj", "{6C6A3B8A-A42A-4A88-9931-99BD9136931B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СomputerGrafic.Lab3.WinForm", "СomputerGrafic.Lab3.WinForm\СomputerGrafic.Lab3.WinForm.csproj", "{186F617F-80EA-428F-898C-2E1610ACDE9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6C6A3B8A-A42A-4A88-9931-99BD9136931B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C6A3B8A-A42A-4A88-9931-99BD9136931B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C6A3B8A-A42A-4A88-9931-99BD9136931B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186F617F-80EA-428F-898C-2E1610ACDE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186F617F-80EA-428F-898C-2E1610ACDE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186F617F-80EA-428F-898C-2E1610ACDE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186F617F-80EA-428F-898C-2E1610ACDE9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
